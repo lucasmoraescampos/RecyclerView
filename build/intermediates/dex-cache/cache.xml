@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lucas\.android\build-cache\89cba48d30281d0689817bab4fbefbd8ff066ab8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\pre-dexed\debug\classes_90b89207306c1ff72227a89aa1eeb4ba3ba6774c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\0b0e9374140d5392affaec967a76d45ede8ee201\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_289fdce9240bdc7b273145a54647cf6d079aafd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\7c28e7416132f10802c7f734eaf43651e04e8719\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad4364f8024bf236f9f0ca143a55fa100f73d8df\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lucas\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_5f83596a0492174126011cea3d0745f4ceb3cb4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lucas\.android\build-cache\7c28e7416132f10802c7f734eaf43651e04e8719\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\pre-dexed\debug\classes_ad4364f8024bf236f9f0ca143a55fa100f73d8df.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9b310c5fb8bfbab51135bc772bc4cada4807f9f4">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_21f89d3b8822894f4533a3bf4d8914292d6f0303\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\afca88b132f314f6f401c47a8fc875d020461866\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd0fca1eb80ba230d721498b85869fe1b8190438\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lucas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_ecf9f90966dd713275474ea6596f7cd3407432a2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_ecf9f90966dd713275474ea6596f7cd3407432a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_5f83596a0492174126011cea3d0745f4ceb3cb4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\d53f75ea4aa912324f18432d67b8389e2a0735dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8e325e9ba5c23d635d0cfaa76c349fca83101f8a">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4771cd2805ab3b5cdbeed4385ee774cc15a57ded\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lucas\.android\build-cache\7edc70cac0b418e3958eff423a2b0b7ec3ae157a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\pre-dexed\debug\classes_26a71165e1f80fa26b1f8d106c25c206f6c68139.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\7edc70cac0b418e3958eff423a2b0b7ec3ae157a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26a71165e1f80fa26b1f8d106c25c206f6c68139\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\3f42959c3f646b1cdd5eb1307f52e68f9fac1d72\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_91476da335664727d8a1f94f74680e94cd318108\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lucas\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_732f0a93c75288971c2b4468ed64f1720b8fb5ea.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\89cba48d30281d0689817bab4fbefbd8ff066ab8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_90b89207306c1ff72227a89aa1eeb4ba3ba6774c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_732f0a93c75288971c2b4468ed64f1720b8fb5ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lucas\.android\build-cache\d53f75ea4aa912324f18432d67b8389e2a0735dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8e325e9ba5c23d635d0cfaa76c349fca83101f8a">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\pre-dexed\debug\classes_4771cd2805ab3b5cdbeed4385ee774cc15a57ded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lucas\.android\build-cache\3f42959c3f646b1cdd5eb1307f52e68f9fac1d72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\pre-dexed\debug\classes_91476da335664727d8a1f94f74680e94cd318108.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\098ee388f78666b018603782ada5e53db51a2927\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4b29fb17cea77040f8a0a47e6bca37687b68621a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\3cba14ebe3f9cb0e9eac68f387a4952478a6cbc5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f96691faa74a5046f15bcbf1a6197ec90079697\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lucas\.android\build-cache\3cba14ebe3f9cb0e9eac68f387a4952478a6cbc5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\pre-dexed\debug\classes_1f96691faa74a5046f15bcbf1a6197ec90079697.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lucas\.android\build-cache\098ee388f78666b018603782ada5e53db51a2927\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\pre-dexed\debug\classes_4b29fb17cea77040f8a0a47e6bca37687b68621a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\cf8eda29826287851dd553fc76ea93c660346eca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b5dfc69ed6cf8bc241a1310ece49a27a36ef8de9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\e70811d06b64675fc1456419f09a3d60d953c103\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e8d37be8f74e1c7ce07dcb57fba833849105fcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\c88c7041fd6806a63cef58f42117129445ef11e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b64e2905fbeca4d8374feca0771ade3889b2890\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lucas\.android\build-cache\cf8eda29826287851dd553fc76ea93c660346eca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\pre-dexed\debug\classes_b5dfc69ed6cf8bc241a1310ece49a27a36ef8de9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lucas\.android\build-cache\c88c7041fd6806a63cef58f42117129445ef11e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\pre-dexed\debug\classes_7b64e2905fbeca4d8374feca0771ade3889b2890.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_24fd834ef4df8715b3deaacaac319db914b4a90c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lucas\.android\build-cache\e70811d06b64675fc1456419f09a3d60d953c103\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\pre-dexed\debug\classes_7e8d37be8f74e1c7ce07dcb57fba833849105fcb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lucas\.android\build-cache\e34c33642e6edffeb3322da87a6bbeef994cb25d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3efcde59f352472defe31fb142d27ac916e38dfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lucas\.android\build-cache\afca88b132f314f6f401c47a8fc875d020461866\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\pre-dexed\debug\classes_cd0fca1eb80ba230d721498b85869fe1b8190438.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lucas\.android\build-cache\e34c33642e6edffeb3322da87a6bbeef994cb25d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\pre-dexed\debug\classes_3efcde59f352472defe31fb142d27ac916e38dfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lucas\.android\build-cache\0b0e9374140d5392affaec967a76d45ede8ee201\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Lucas\AndroidStudioProjects\RecyclerView\app\build\intermediates\pre-dexed\debug\classes_289fdce9240bdc7b273145a54647cf6d079aafd2.jar" />
+    </item>
+
+</items>
